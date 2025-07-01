@@ -1,7 +1,7 @@
 # FastVLM-Colaboratory-Sample
 Colaboratory上で[FastVLM(apple/ml-fastvlm)](https://github.com/apple/ml-fastvlm)をお試しするサンプルです。<bR>
 
-![image](https://github.com/user-attachments/assets/1bf2727f-3c9d-4ba8-9179-612cc2f17bec)
+![image](https://github.com/user-attachments/assets/7d39b209-612d-4116-9719-ab61b58daff3)
 
 # Usage
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kazuhito00/FastVLM-Colaboratory-Sample/blob/main/FastVLM-Colaboratory-Sample.ipynb)<br>
