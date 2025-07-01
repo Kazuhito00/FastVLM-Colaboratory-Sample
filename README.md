@@ -10,5 +10,8 @@ Colaboratoryでノートブックを開き、上から順に実行してくだ�
 # License 
 FastVLM-Colaboratory-Sample is under [Apple Software License](https://github.com/apple/ml-fastvlm/blob/main/LICENSE_MODEL).
 
+# License(Image)
+サンプル実行用に格納している画像は、[ぱくたそ](https://www.pakutaso.com)様の[髪の毛でハートのかたちをつくる女子](https://www.pakutaso.com/20171115305post-13899.html)を利用しています。
+
 # Author
 高橋かずひと(https://twitter.com/KzhtTkhs)
